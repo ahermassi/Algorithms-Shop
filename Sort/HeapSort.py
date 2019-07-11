@@ -25,4 +25,4 @@ if __name__ == '__main__':
     arr = [19, 22, 63, 105, 2, 46]
     print('Array before sorting: ', *arr)
     heap_sort(arr)
-    print('Array after QuickSort: ', *arr)
+    print('Array after Heap Sort: ', *arr)
